@@ -1,9 +1,15 @@
 import FormHandle from "./class5Formbasic/FormHandle";
+import Conditional from "./class6/Conditional";
+import List from "./class6/List";
 
 function App() {
   return (
     <div>
-      <FormHandle />
+      
+      {/* <FormHandle /> */}
+      {/* <Conditional /> */}
+      
+       <List />
     </div>
   );
 }
