@@ -40,9 +40,7 @@ function List() {
     <div>
         List Items
 
-        <div
-            style={productListContainer}
-        >
+        <div  style={productListContainer} >
             {
                 products.map( product => {
                     return (
